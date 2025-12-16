@@ -1,11 +1,15 @@
-# Aaltoes Robotics & AI Hackathon 2025 (https://luma.com/r066ymq1)
+# Aaltoes Robotics & AI Hackathon 2025 project
+
+Event link: https://luma.com/r066ymq1
 
 Group work by
 - Elias Vesanen
 - Eetu Koskinen
-- Alireza Fatemi
+- Sayed Alireza Fatemi
 - Ahmad Erfani
 - Denice
+
+We made a Halloween-themed application where the user can ask questions from "mechanical seer" that then answers by pointing letters with SO-101 robotic arm. It consists of a user interface where the question is written and then processed by Language Model API whose answer is spelled letter by letter by moving arm into pretrained positions. This project yielded us a victory in Most Creative Project category.
 
 Source Code: https://github.com/ahmaderfani12/RoboHack
 
