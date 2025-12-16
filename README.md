@@ -9,7 +9,7 @@ Group work by
 - Ahmad Erfani
 - Denice
 
-We made a Halloween-themed application where the user can ask questions from "mechanical seer" that then answers by pointing letters with SO-101 robotic arm. It consists of a user interface where the question is written and then processed by Language Model API whose answer is spelled letter by letter by moving arm into pretrained positions. This project yielded us a victory in Most Creative Project category.
+We made a Halloween-themed application where the user can ask questions from a "mechanical seer" that then answers by pointing letters with SO-101 robotic arm. It consists of a user interface where the question is written and then processed by Language Model API whose answer is spelled letter by letter by moving the arm into pretrained positions. This project yielded us a victory in the Most Creative Project category.
 
 Source Code: https://github.com/ahmaderfani12/RoboHack
 
